@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap);
+
+@import url(https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100;200;300;400;500;600;800;900&display=swap);
+
+
+*,
+::after
+::before
+{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body {
+  font-family: 'Big Shoulders Display', display;
+}
+
+.card_1 {
+  width: 307px;
+  height: 500px;
+  text-align: center;
+  background: #E28625;
+  border-radius: 8px;
+  display: inline-block;
+}
+.car__icon_1 {
+    padding-top: 48px;
+    padding-left: 48px;
+    display: flex;
+    justify-content: start;
+ 
+}
+.header__link_1 {
+    padding: 16px 39px;
+    border-radius: 30px;
+    border: none;
+    margin: 21px 0 0 40px;
+    color: #E28625;
+    background-color: white;
+}
+.card_2 {
+    width: 307px;
+    height: 500px;
+    text-align: center;
+    background: #006971;
+    display: inline-block;
+}
+.car__icon_2 {
+    padding-top: 48px;
+    padding-left: 48px;
+    display: flex;
+    justify-content: start;
+
+}
+.header__link_2 {
+    padding: 16px 39px;
+    border-radius: 30px;
+    border: none;
+    margin: 21px 0 0 40px;
+    background-color: white;
+    color: #006971;
+}
+.card_3 {
+    width: 307px;
+    height: 500px;
+    text-align: center;
+    background:  #004140;
+    border-radius: 8px;
+    display: inline-block;
+}
+.car__icon_3 {
+    padding-top: 48px;
+    padding-left: 48px;
+    display: flex;
+    justify-content: start;
+
+}
+.header__link_3 {
+    padding: 16px 39px;
+    border-radius: 30px;
+    border: none;
+    margin: 21px 0 0 40px;
+    color: #004140;
+    background-color: white;
+}
+
+h1 {
+    padding-top: 35px;
+    padding-left: 48px;
+    display: flex;
+    justify-content: start;
+    font-weight: 700;
+    color: white;
+}
+
+a {
+    width: 100px;
+    height: 25px;
+    display: flex;
+    justify-content: start;
+    padding-bottom: 48px;
+    font-weight: 400;
+    text-decoration: none;
+    font-family: 'Lexend Deca', sans-serif;
+}
+p {
+   display: flex;
+   text-align: center;
+   opacity: 60%;
+   font-weight: 400;
+   color: white;
+   padding-top: 25px;
+   padding-bottom: 55px;
+   padding-left: 47px;
+   font-family: 'Lexend Deca', sans-serif;
+}
